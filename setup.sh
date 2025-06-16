@@ -21,11 +21,6 @@ apt install -y cmake
 
 apt install libopenblas-dev liblapack-dev libatlas-base-dev
 
-# Clone the git repository (replace with actual URL)
-git clone https://example.com/your-repo.git
-
-# Move one directory up
-cd snapsortai
 
 python -m venv venv
 
