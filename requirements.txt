@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.39.0
 pyyaml
 opencv-python==4.7.0.72
 face_recognition==1.3.0
@@ -6,4 +6,5 @@ streamlit-lottie
 streamlit_option_menu
 imutils
 scikit-learn
+
 
