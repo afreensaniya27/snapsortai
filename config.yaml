@@ -1,0 +1,4 @@
+PATH:
+  DATASET_DIR: 'database/'
+  PKL_PATH: 'database/database1.pkl'
+  PKL_PATH2: 'database/database2.pkl'
