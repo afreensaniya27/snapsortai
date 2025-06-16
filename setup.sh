@@ -19,7 +19,7 @@ pip uninstall -y cmake
 # Install cmake via apt
 apt install -y cmake
 
-apt install libopenblas-dev liblapack-dev libatlas-base-dev
+apt install -y libopenblas-dev liblapack-dev libatlas-base-dev
 
 
 python -m venv venv
